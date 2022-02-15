@@ -122,6 +122,7 @@ USE_TZ = True
 TAILWIND_APP_NAME = 'app'
 INTERNAL_IPS = [
     "127.0.0.1",
+    "djangotailwind-production.up.railway.app"
 ]
 NPM_BIN_PATH = "C:\\Program Files\\nodejs\\npm.cmd"
 
